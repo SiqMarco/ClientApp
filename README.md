@@ -1,7 +1,7 @@
-# Getting Started with Create React App
+# Project Client-App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
+The project is a simple client app that consumes a [REST API ClientApi](https://github.com/SiqMarco/project-ClientApi), it has a simple interface that allows the user to create, read, update and delete clients.
 ## Available Scripts
 
 In the project directory, you can run:
